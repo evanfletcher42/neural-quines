@@ -3,6 +3,9 @@ A collection of "neural network quines," networks that ouptut their own weights 
 
 Inspired by https://arxiv.org/abs/1803.05859, and discussed in much greater detail on my blog: <link>
 
+
+![A plot comparing neural network output to the network's own weights.](https://github.com/evanfletcher42/neural-quines/blob/main/figures/img_approx_bn_1.png)
+
 ## Requirements
 Pytorch, numpy, and matplotlib.  
 
